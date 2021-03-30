@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on Hawa&#39;s Site</title>
+    <link>//hawasylla.github.io/</link>
+    <description>Recent content in HOME on Hawa&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Hawa Sylla</copyright>
+    <lastBuildDate>Wed, 03 Feb 2021 09:37:55 +0200</lastBuildDate><atom:link href="//hawasylla.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started... My first Hackathon !</title>
+      <link>//hawasylla.github.io/post/myfirsthackathon/</link>
+      <pubDate>Wed, 03 Feb 2021 09:37:55 +0200</pubDate>
+      
+      <guid>//hawasylla.github.io/post/myfirsthackathon/</guid>
+      <description>Prejudmania is a game that I had worked on at the 2020 GSU Hackathon that my school had hosted. I was inspired not only by my personal experience but the short amount of time I had to complete it.
+This being my first Hackathon, I wasn&amp;rsquo;t really sure what to expect. Though I was nervous at first, soon after the event, I wondered why I was even nervous at all !</description>
+    </item>
+    
+    <item>
+      <title>Prejudmania</title>
+      <link>//hawasylla.github.io/portfolio/sample-project/</link>
+      <pubDate>Tue, 02 Feb 2021 16:47:09 +0200</pubDate>
+      
+      <guid>//hawasylla.github.io/portfolio/sample-project/</guid>
+      <description>Prejudmania is the winning game that I had worked on at the 2020 GSU Hackathon that my school had hosted. I was inspired not only by my personal experience, but the short amount of time I had to complete it. This being my first Hackathon, I wasn&amp;rsquo;t really sure what to expect. Though I was nervous at first, soon after the event, I wondered why I was even nervous at all !</description>
+    </item>
+    
+  </channel>
+</rss>
